@@ -36,9 +36,13 @@ Bei 1NCE sind die Balkanstaaten im Vertrag inkludiert.
 
 <p>Wie geht es nun weiter?</p>
 
+![Zukünftige Lokation des Trackers im Cube](./images/Cube mit Lokation des Trackers.jpg)
+
 <p>
 <ul>
 <li>Setzte die SIM Card in den Tracker und konfiguriere diesen. Vergesse nicht Bluetooth anzumachen, du kannst später nur noch so auf den Tracker zugreifen.</li>
+<li>Teste die Funktionalität des Trackers! </li>
+
 <li>Bei meinem Cube ist der Akku fest verbaut. Um diesen auszubauen musst du den Motor ausbauen. Das ist aber kein Hexenwerk: 
 <ul>
 <li>Kette vom Blatt nehmen.</li>
