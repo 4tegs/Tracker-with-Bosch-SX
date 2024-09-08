@@ -36,7 +36,7 @@ Bei 1NCE sind die Balkanstaaten im Vertrag inkludiert.
 
 <p>Wie geht es nun weiter?</p>
 
-![Zukünftige Lokation des Trackers im Cube](./images/Cube mit Lokation des Trackers.jpg)
+![Zukünftige Lokation des Trackers im Cube](./images/Cube_mit_Lokation_des_Trackers.jpg)
 
 <p>
 <ul>
