@@ -1,4 +1,4 @@
-# Tracker with Bosch-SX
+# Installing a Teltonika tracker in a bike with a Bosch SX motor
 Implement a Teltonika Tracker in an eBike with Bosch SX Motor
 <p>Du möchtest einen Tracker in ein eBike mit Bosch SX Antrieb einbauen? Aber <strong>nicht</strong> das Bosch ConnectModule?</p>
 
