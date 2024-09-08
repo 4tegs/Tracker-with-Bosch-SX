@@ -29,6 +29,7 @@ Bei 1NCE sind die Balkanstaaten im Vertrag inkludiert.
 </ul>
 
 <p>Diese Kombination stellt einen High Power Component Port (HPP) zur Verfügung der für verschiedene Anwendungen zum Einsatz kommt, beispielsweise dem Bosch eBike ABS, eShift Komponenten oder eben für unseren Tracker.</p>
+
 ![Der HPP Kabelsatz](./images/Kabelsatz_HPP.jpg)
 
 <p>Der Zusammenbau des Kabels ist in der Anleitung des Bosch Component Connector beschrieben und durch die farbliche Kodierung simpel.</p>
