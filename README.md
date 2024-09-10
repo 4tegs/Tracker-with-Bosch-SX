@@ -98,7 +98,16 @@ So sieht am Ende der Blick von unten in den Motorschacht aus:
 ![Ansicht Traccar](./images/ansicht_traccar.jpg)
 
 </ul>
-<strong>Done!</strong>
+
 </p>
+
+<h1>Ein Nachtrag</h1>
+<p>An der Stelle wo das Unterrohr, Steuerrohr und Oberrohr zusammentreffen sind die Carbonteile auf ein Stahlformblech laminiert. Bei meinem ersten Einbau ging der Tracker nicht, da die GPS und GPRS Komponenten des Trackers bereits unter das Stahlblech gerutscht waren und somit von diesem abgeschirmt wurden.</p>
+
+<p>Die Lösung war bei mir, den Tracker 180 Grad verdreht einzubauen. Fazit: Bevor alles zusammengebaut wird, genau prüfen ob der Tracker noch Verbindung hat. <br/>Durch die Bluetoothverbindung kannst du das Verhalten sehr gut Live verfolgen.</p>
+
+
+![Wo geht der Tracker?](./images/wo_geht_der_tracker.jpg)
+
 
 
