@@ -116,7 +116,7 @@ So sieht am Ende der Blick von unten in den Motorschacht aus:
 
 
 <h1>Langzeit-Fazit</h1>
-<p>Auch wenn der Tracker immer wieder in der Lage war Daten zu empfangen und zu senden, so konnte nie eine stabile Verbindung sichergestellt werdenn. So "sah" der Tracker beispielsweise 12 Satelliten, verband sich aber nur mit 4. So waren die Tracks stets lückenhaft. 
+<p>Auch wenn der Tracker immer wieder in der Lage war Daten zu empfangen und zu senden, so konnte nie eine stabile Verbindung sichergestellt werden. So "sah" der Tracker beispielsweise 12 Satelliten, verband sich aber nur mit 4. So waren die Tracks stets lückenhaft. 
 </p>
 <p>Die Verwendung eines Teltonika FMM001 löste zwar das Platzproblem ein stückweit, nur der konnte gar keine Verbindung herstellen, auch wenn die Antenne direkt nach außen und unterhalb des einlaminierten Bleches war.</p>
 
