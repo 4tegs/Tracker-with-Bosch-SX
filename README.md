@@ -121,3 +121,20 @@ So sieht am Ende der Blick von unten in den Motorschacht aus:
 <p>Die Verwendung eines Teltonika FMM001 löste zwar das Platzproblem ein stückweit, nur der konnte gar keine Verbindung herstellen, auch wenn die Antenne direkt nach außen und unterhalb des einlaminierten Bleches war.</p>
 
 **Fazit:** Ich habe das Projekt erfolglos eingestellt. 
+<h2>GPS und Carbonfaser</h2>
+<p>Es lohnt ein Blick auf die Verträglichkeit von GPS Signalen beim  Werkstoff Carbon:</p>
+<p>Ein GPS-Signal kann Carbon (Kohlenstoff) durchdringen, jedoch hängt die Signalstärke davon ab, wie dick und dicht das Material ist. GPS-Signale sind elektromagnetische Wellen im Frequenzbereich von 1,2 bis 1,6 GHz, die typischerweise Materialien wie Kunststoff, Glas oder dünne Schichten von Kohlenstoff-Verbundstoffen (z. B. Carbonfasern) durchdringen können. </p>
+
+<p>
+
+**Wenn Carbon jedoch in einer hohen Dichte oder Schichtdicke vorliegt**, insbesondere in Form von Kohlefaser-Verbundwerkstoffen, kann es das Signal stark dämpfen oder vollständig blockieren. Das liegt daran, dass Kohlefasern leitend sind und elektromagnetische Wellen teilweise absorbieren oder reflektieren können.  </p>
+
+<p>In der Praxis:  </p>
+
+- Dünne Carbon-Schichten, wie sie in elektronischen Geräten oder Fahrzeugen verwendet werden, haben oft keinen großen Einfluss auf GPS-Signale.  
+
+- **Dickere oder mehrfach geschichtete Carbon-Strukturen (z. B. in Luft- und Raumfahrt oder bei hochwertigen Fahrrädern) können jedoch Signalverluste verursachen, insbesondere wenn das GPS-Gerät vollständig von Carbon umschlossen ist.**
+
+<p>Wenn GPS-Signale bei solchen Anwendungen kritisch sind, werden oft Signalverstärkungen oder spezielle Antennen außerhalb des Carbon-Gehäuses verwendet.</p>
+
+<p>(Auszug bereitgestellt von ChatGPT)</p>
